@@ -21,6 +21,6 @@ function changeLeastFavoriteCustomer() {
 }
 
 function attemptTwoFavoriteCustomers() {
-  const favoriteCustomer = 'Sarah'
+  let favoriteCustomer = 'Sarah'
   let favoriteCustomer = 'Laura'
 }
